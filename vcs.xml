@@ -390,6 +390,10 @@
           <option name="url" value="https://gitlab.iwgame.com/mars-ant/mars-ant-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/muyishuangfeng/LTGameSDKDemo1.X.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workStation" />
