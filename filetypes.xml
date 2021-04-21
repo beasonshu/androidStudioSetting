@@ -7,6 +7,7 @@
       <mapping pattern="OaceOaT8w5Xda6wa" type="PLAIN_TEXT" />
       <mapping ext="osg" type="PLAIN_TEXT" />
       <mapping ext="osgt" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
