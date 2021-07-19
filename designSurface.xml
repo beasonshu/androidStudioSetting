@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/layout/activity_simple.xml" value="0.11574074074074074" />
         <entry key="app/src/main/res/layout/activity_simple_dialog_main.xml" value="0.11574074074074074" />
         <entry key="app/src/main/res/layout/fragment_simple_dialog_content.xml" value="0.11574074074074074" />
+        <entry key="demo/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="sample/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="sample/src/main/res/layout/fragment_main.xml" value="0.13880445795339413" />
         <entry key="sample/src/main/res/layout/fragment_mediastore.xml" value="0.13880445795339413" />
