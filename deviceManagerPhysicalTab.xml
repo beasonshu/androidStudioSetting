@@ -19,8 +19,19 @@
             <value value="R5CR50EHX6V" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-28T06:18:31.658759Z" />
         <name value="samsung SM-G9910" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6bbee323" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-28T06:41:05.358196Z" />
+        <name value="OPPO PCCM00" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
