@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6bbee323" />
+          </Key>
+        </key>
+        <name value="OPPO PCCM00" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-R5CR50EHX6V-2c6pKy._adb-tls-connect._tcp." />
           </Key>
@@ -20,18 +31,6 @@
           </Key>
         </key>
         <name value="samsung SM-G9910" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="6bbee323" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-02-28T10:50:41.907652Z" />
-        <name value="OPPO PCCM00" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
