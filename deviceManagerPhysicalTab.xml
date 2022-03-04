@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="67f4596f" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-04T06:04:33.293385Z" />
+        <name value="OPPO PCAM00" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="6bbee323" />
           </Key>
         </key>
@@ -49,23 +61,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="67f4596f" />
-          </Key>
-        </key>
-        <name value="OPPO PCAM00" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="2dc806d1" />
           </Key>
         </key>
         <name value="Xiaomi MI 8" />
         <target value="Android 9.0" />
         <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="XPL4C19B23007394" />
+          </Key>
+        </key>
+        <name value="HUAWEI TAS-AN00" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
