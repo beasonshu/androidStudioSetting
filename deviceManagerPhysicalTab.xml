@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="XPL4C19B23007394" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-11T09:34:43.659650Z" />
+        <name value="HUAWEI TAS-AN00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="80f7305a" />
           </Key>
         </key>
@@ -78,17 +90,6 @@
         <name value="Xiaomi MI 6X" />
         <target value="Android 8.1" />
         <api value="27" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="XPL4C19B23007394" />
-          </Key>
-        </key>
-        <name value="HUAWEI TAS-AN00" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
