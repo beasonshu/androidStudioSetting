@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="191QAFYJ4JRXV" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-17T02:46:42.903364Z" />
+        <name value="meizu MEIZU 18 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="67f4596f" />
           </Key>
         </key>
@@ -90,17 +102,6 @@
         <name value="Xiaomi MI 6X" />
         <target value="Android 8.1" />
         <api value="27" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="191QAFYJ4JRXV" />
-          </Key>
-        </key>
-        <name value="meizu MEIZU 18 Pro" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
