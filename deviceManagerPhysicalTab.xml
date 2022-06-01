@@ -5,10 +5,9 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.31.10:5555" />
+            <value value="SCQSGAS8MJ8HYHHM" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-11T08:09:01.837161Z" />
         <name value="vivo vivo X21i A" />
         <target value="Android 9.0" />
         <api value="28" />
@@ -17,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="SCQSGAS8MJ8HYHHM" />
+            <value value="192.168.31.10:5555" />
           </Key>
         </key>
         <name value="vivo vivo X21i A" />
