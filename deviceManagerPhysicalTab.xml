@@ -23,6 +23,17 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-80f7305a-HSd3fr._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="vivo V2024A" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
