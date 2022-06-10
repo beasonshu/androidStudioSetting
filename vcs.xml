@@ -574,6 +574,10 @@
           <option name="url" value="https://github.com/TeamVanced/VancedStore.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/micer/clipboard-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workStation" />
