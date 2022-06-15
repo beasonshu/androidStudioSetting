@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="80f7305a" />
+          </Key>
+        </key>
+        <name value="vivo V2024A" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="191QAFYJ4JRXV" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="HUAWEI TAS-AN00" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="80f7305a" />
-          </Key>
-        </key>
-        <name value="vivo V2024A" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
