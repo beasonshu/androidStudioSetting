@@ -1,16 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payload" />
       <item value="Total size of the download in bytes. This will initially be -1 and will be filled in once the download starts." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642150079535" />
+    <option name="lastTrimTime" value="1655798604519" />
   </component>
 </application>
