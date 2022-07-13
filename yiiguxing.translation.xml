@@ -1,5 +1,7 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="1129" />
+    <option name="newTranslationDialogY" value="665" />
     <histories>
       <item value="payload" />
       <item value="Total size of the download in bytes. This will initially be -1 and will be filled in once the download starts." />
