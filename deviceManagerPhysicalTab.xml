@@ -8,9 +8,9 @@
             <value value="CLB0218928018942" />
           </Key>
         </key>
-        <name value="HUAWEI EML-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
