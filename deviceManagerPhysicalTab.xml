@@ -52,9 +52,9 @@
             <value value="HT69K0200644" />
           </Key>
         </key>
-        <name value="Google Pixel XL" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
