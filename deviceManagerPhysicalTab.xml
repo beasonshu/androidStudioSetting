@@ -4,8 +4,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-80f7305a-HSd3fr._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="80f7305a" />
           </Key>
         </key>
         <name value="vivo V2024A" />
@@ -15,8 +15,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="80f7305a" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-80f7305a-HSd3fr._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="vivo V2024A" />
