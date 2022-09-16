@@ -8,8 +8,8 @@
       <mapping pattern=".nores" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="osg" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="osgt" type="PLAIN_TEXT" />
       <mapping ext="klib" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
