@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="XWN0221318014441" />
+          </Key>
+        </key>
+        <name value="HUAWEI OCE-AN10" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="80f7305a" />
           </Key>
         </key>
@@ -176,17 +187,6 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="XWN0221318014441" />
-          </Key>
-        </key>
-        <name value="HUAWEI OCE-AN10" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
