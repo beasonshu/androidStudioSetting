@@ -1,0 +1,21 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="1129" />
+    <option name="newTranslationDialogY" value="665" />
+    <histories>
+      <item value="macro default bg color" />
+      <item value="Gets display metrics that describe the size and density of this display. The size returned by this method does not necessarily represent the actual raw size (native resolution) of the display. &lt;p&gt; 1. The returned size may be adjusted to exclude certain system decor elements that are always visible. &lt;p&gt;&lt;p&gt; 2. It may be scaled to provide compatibility with older applications that were originally designed for smaller displays. &lt;p&gt;&lt;p&gt; 3. It can be different depending on the WindowManager to which the display belongs. &lt;p&gt;&lt;p&gt; - If requested from non-Activity context (e.g. Application context via {@code (WindowManager) getApplicationContext().getSystemService(Context.WINDOW_SERVICE)}) metrics will report the size of the entire display based on current rotation and with subtracted system decoration areas. &lt;p&gt;&lt;p&gt; - If requested from activity (either using {@code getWindowManager()} or {@code (WindowManager) getSystemService(Context.WINDOW_SERVICE)}) resulting metrics will correspond to current app window metrics. In this case the size can be smaller than physical size in multi-window mode. &lt;p&gt; @param outMetrics A {@link DisplayMetrics} object to receive the metrics. @deprecated Use {@link WindowMetricsgetBounds()} to get the dimensions of the application window area, and {@link ConfigurationdensityDpi} to get the current density." />
+      <item value="payload" />
+      <item value="Total size of the download in bytes. This will initially be -1 and will be filled in once the download starts." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1661741979129" />
+  </component>
+</application>
