@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:com.ipankstudio.lk21" />
+        <option value="package:" />
       </list>
     </option>
   </component>
