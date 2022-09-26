@@ -607,7 +607,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/myinnos/AppIconNameChanger.git" />
+          <option name="url" value="https://github.com/beasonxu/AppIconNameChanger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seventhmoon/ipapi-retrofit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
