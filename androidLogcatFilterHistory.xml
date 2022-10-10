@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="pa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine " />
         <option value="pa" />
         <option value="package:com.ipankstudio.lk21" />
         <option value="package:" />
-        <option value="package:mine" />
         <option value="pack" />
       </list>
     </option>
