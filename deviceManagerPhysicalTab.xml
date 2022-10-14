@@ -76,6 +76,39 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.246.84.154:7561" />
+          </Key>
+        </key>
+        <name value="HUAWEI HWI-AL00" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.246.84.154:7477" />
+          </Key>
+        </key>
+        <name value="HUAWEI HWI-AL00" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.246.84.154:7665" />
+          </Key>
+        </key>
+        <name value="HUAWEI HWI-AL00" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
