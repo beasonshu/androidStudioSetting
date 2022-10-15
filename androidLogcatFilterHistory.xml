@@ -3,11 +3,12 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="web" />
+        <option value="package:" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="pa" />
         <option value="package:com.ipankstudio.lk21" />
-        <option value="package:" />
         <option value="pack" />
       </list>
     </option>
