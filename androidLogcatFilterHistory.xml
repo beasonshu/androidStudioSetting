@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="chenggs" />
+    <option name="mostRecentlyUsed" value="HostsFileParser" />
     <option name="nonFavorites">
       <list>
+        <option value="HostsFileParser" />
+        <option value="Parsed ad list " />
         <option value="chenggs" />
         <option value="web" />
         <option value="package:" />
