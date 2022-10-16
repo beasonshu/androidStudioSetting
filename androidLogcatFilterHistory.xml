@@ -1,15 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="moon_visit_website_access" />
     <option name="nonFavorites">
       <list>
+        <option value="moon_visit_website_access" />
+        <option value="package:mine " />
+        <option value="event" />
+        <option value="package:mine" />
+        <option value="event---&gt;" />
+        <option value="moon_visit_website_access,keyWord=" />
+        <option value="TubeLog" />
+        <option value="sourceUrl" />
         <option value="HostsFileParser" />
         <option value="Parsed ad list " />
         <option value="chenggs" />
         <option value="web" />
         <option value="package:" />
-        <option value="package:mine " />
-        <option value="package:mine" />
         <option value="pa" />
         <option value="package:com.ipankstudio.lk21" />
         <option value="pack" />
