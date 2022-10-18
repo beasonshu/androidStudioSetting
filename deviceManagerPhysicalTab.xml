@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="53cbb7a1" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 6" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-80f7305a-HSd3fr._adb-tls-connect._tcp." />
           </Key>
