@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="SCQSGAS8MJ8HYHHM" />
-          </Key>
-        </key>
-        <name value="vivo vivo X21i A" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="80f7305a" />
           </Key>
         </key>
         <name value="vivo V2024A" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="SCQSGAS8MJ8HYHHM" />
+          </Key>
+        </key>
+        <name value="vivo vivo X21i A" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -75,6 +75,17 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="TO75QK6PNBBE49JV" />
+          </Key>
+        </key>
+        <name value="Xiaomi 2207122MC" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
