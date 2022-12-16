@@ -658,6 +658,10 @@
           <option name="url" value="https://github.com/beasonxu/PowerTunnel-AdBlock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/beasonshu/Aria.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workStation" />
