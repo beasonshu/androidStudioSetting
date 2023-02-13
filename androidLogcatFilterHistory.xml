@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="moon_visit_website_access" />
+    <option name="mostRecentlyUsed" value="package:mine  progress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  progress" />
+        <option value="package:mine  " />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="moon_visit_website_access" />
-        <option value="package:mine " />
         <option value="event" />
         <option value="event---&gt;" />
         <option value="moon_visit_website_access,keyWord=" />
