@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine progress" />
         <option value="package:mine isMainThread" />
         <option value="package:mine" />
         <option value="package:mine GlideExecutor" />
@@ -21,7 +22,6 @@
         <option value="package:" />
         <option value="pa" />
         <option value="package:com.ipankstudio.lk21" />
-        <option value="pack" />
       </list>
     </option>
   </component>
