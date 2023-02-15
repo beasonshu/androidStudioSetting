@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine currentProgress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine currentProgress" />
         <option value="package:mine " />
         <option value="package:mine progress" />
         <option value="package:mine isMainThread" />
@@ -21,7 +23,6 @@
         <option value="web" />
         <option value="package:" />
         <option value="pa" />
-        <option value="package:com.ipankstudio.lk21" />
       </list>
     </option>
   </component>
