@@ -16,6 +16,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="FVG0221812023370" />
+          </Key>
+        </key>
+        <name value="HUAWEI NOH-AL10" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="2e77533e" />
+          </Key>
+        </key>
+        <name value="Xiaomi 2106118C" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="SCQSGAS8MJ8HYHHM" />
           </Key>
         </key>
@@ -95,6 +117,17 @@
           </Key>
         </key>
         <name value="samsung SM-G9910" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6bbee323" />
+          </Key>
+        </key>
+        <name value="OPPO PCCM00" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>

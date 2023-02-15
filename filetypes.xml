@@ -7,6 +7,7 @@
       <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="status" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />

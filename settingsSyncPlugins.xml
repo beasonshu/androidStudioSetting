@@ -1,0 +1,39 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="cn.yiiguxing.plugin.translate">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.android.tools.apk">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.android.tools.idea.smali" />
+                  <option value="com.android.tools.ndk" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
