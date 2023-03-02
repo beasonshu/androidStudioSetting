@@ -9,9 +9,9 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>strings.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
