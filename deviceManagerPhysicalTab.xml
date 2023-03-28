@@ -4,6 +4,28 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-RFCT206B6AP-CTScwG._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="samsung SM-S9060" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RFCT206B6AP" />
+          </Key>
+        </key>
+        <name value="samsung SM-S9060" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="80f7305a" />
           </Key>
