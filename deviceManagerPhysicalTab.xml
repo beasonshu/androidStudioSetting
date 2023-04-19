@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
+            <value value="adb-RFCT206B6AP-CTScwG._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="samsung SM-S9060" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
             <value value="adb-10AC780KY6001K9-puUlCK._adb-tls-connect._tcp." />
           </Key>
         </key>
@@ -55,17 +66,6 @@
         <name value="HUAWEI EML-AL00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-RFCT206B6AP-CTScwG._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="samsung SM-S9060" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
