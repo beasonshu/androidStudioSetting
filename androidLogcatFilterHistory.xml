@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="fire" />
+        <option value="fb" />
         <option value="package:mine level:error level:info" />
         <option value="package:mine level:error " />
         <option value="package:mine fir" />
@@ -21,7 +23,6 @@
         <option value="package:" />
         <option value="pa" />
         <option value="package:com.ipankstudio.lk21" />
-        <option value="pack" />
       </list>
     </option>
   </component>
