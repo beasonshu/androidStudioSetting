@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine btnSend_BackHome" />
+    <option name="mostRecentlyUsed" value="package:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:" />
         <option value="package:mine btnSend_BackHome" />
         <option value="package:mine btn" />
         <option value="package:mine b" />
@@ -22,7 +23,6 @@
         <option value="event---&gt;" />
         <option value="moon_visit_website_access,keyWord=" />
         <option value="TubeLog" />
-        <option value="sourceUrl" />
       </list>
     </option>
   </component>
