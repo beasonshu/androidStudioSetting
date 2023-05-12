@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine doType" />
+    <option name="mostRecentlyUsed" value="package:mine btnSend_BackHome" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine btnSend_BackHome" />
+        <option value="package:mine ba" />
         <option value="package:mine doType" />
         <option value="package:mine btnConfirmAddDetail" />
-        <option value="package:mine btnSend_BackHome" />
         <option value="package:mine " />
         <option value="package:" />
         <option value="package:m" />
@@ -22,7 +23,6 @@
         <option value="package:mine  progress" />
         <option value="package:mine  " />
         <option value="moon_visit_website_access" />
-        <option value="event" />
       </list>
     </option>
   </component>
