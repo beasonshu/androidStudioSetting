@@ -1,10 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine btnSend_BackHome" />
+    <option name="mostRecentlyUsed" value="package:mine btnSend_BackHome " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine btnSend_BackHome" />
+        <option value="package:mine btnSend_BackHome " />
+        <option value="package:mine level:debug " />
+        <option value="package:mine origin=" />
+        <option value="package:mine ori" />
+        <option value="package:mine o" />
+        <option value="btnSend_BackHome" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine level:error origin" />
+        <option value="package:mine btnSend_BackHome" />
         <option value="package:mine ba" />
         <option value="package:mine doType" />
         <option value="package:mine btnConfirmAddDetail" />
@@ -15,14 +23,6 @@
         <option value="package:mine createLayout" />
         <option value="package:mine Throwable" />
         <option value="package:mine" />
-        <option value="package:mine level:error " />
-        <option value="package:mine currentProgress" />
-        <option value="package:mine progress" />
-        <option value="package:mine isMainThread" />
-        <option value="package:mine GlideExecutor" />
-        <option value="package:mine  progress" />
-        <option value="package:mine  " />
-        <option value="moon_visit_website_access" />
       </list>
     </option>
   </component>
