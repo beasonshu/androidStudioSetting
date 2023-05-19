@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine fa" />
+        <option value="package:mine notification_received" />
+        <option value="package:mine" />
         <option value="package:mine notification___url" />
         <option value="package:mine btnSend_BackHome " />
         <option value="package:mine level:debug " />
@@ -21,8 +22,6 @@
         <option value="package:" />
         <option value="package:m" />
         <option value="package:mine btn" />
-        <option value="package:mine b" />
-        <option value="package:mine createLayout" />
       </list>
     </option>
   </component>
