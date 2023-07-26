@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="app_icon" type="AUTO_DETECTED" />
+      <mapping pattern="gdbserver" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dirstamp" type="PLAIN_TEXT" />
