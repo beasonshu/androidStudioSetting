@@ -4,6 +4,39 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-9d46da009777d533-tBUuix._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="536922ed9777d533" />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-536922ed9777d533-L5E2PY._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="RFCT206B6AP" />
           </Key>
@@ -136,17 +169,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="c1a8a97994cb89e6" />
-          </Key>
-        </key>
-        <name value="rockchip rk3568_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-9d46da009777d533-tBUuix._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="rockchip rk3568_r" />
